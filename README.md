@@ -12,4 +12,5 @@
 
 ## la rama main se crea de forma automatica pero staging y develop se crea de forma sencilla en la opcion que dice main
 
-![tercera imagen](/Picture3.png)
+![tercera imagen](/Picture3.png) ![cuarta imagen](/Picture4.png)
+
