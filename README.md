@@ -14,3 +14,7 @@
 
 ![tercera imagen](/Picture3.png) ![cuarta imagen](/Picture4.png)
 
+## una vez creado los branchs se agregaran a una lista y ya estaremos listos para trabajar
+
+![image](https://github.com/RobertRR-GS/proweb_/assets/150756200/bcd03f7a-f1c3-4cf3-86b7-d7e0c344f421)
+
