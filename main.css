@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC&display=swap');
+
+body{
+    background-color:rgb(255, 242, 255);
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+#menu a{
+  font-size: 18px;
+}
+h1,h2{
+  font-family: "Playwrite AU VIC", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+button{
+  background-color: #ff8f8f;
+  border: none;
+  border-radius: 7px;
+  padding: 6px;
+}
+.carousel-inner{
+  display: block;
+  width: 50%;
+  height: auto;
+  margin: 15px auto;
+
+}
+.repostera{
+  width: 25rem ;
+  height: 25rem ;
+  display: flex;
+  margin: 30px;
+  border-radius: 10px;
+  
+  
+}
+.products-grid{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+footer{
+  background-color: #af3737;
+}
+
+.maria{
+  background-color:#fae0e0;
+  border-radius: 5px;
+  font-style: italic;
+}
+.juan{
+  background-color:#fae0e0;
+  border-radius: 5px;
+  font-style: italic;
+}
+form{
+  background-color: #fd9999a1;
+  padding: 20px;
+  border-radius: 10px;
+
+}
